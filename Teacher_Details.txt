@@ -1,0 +1,8 @@
+1002, Anil S, 12, K
+1004, Achyuth payani, 2, B
+1024, Akash, 4, A
+1005, Abilash, 6, S
+12, Zaid, 2, A
+122, Vignesh, 2, D
+10023, Suresh, 2, A
+10233, Ramesh, 1, J
